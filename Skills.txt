@@ -1,3 +1,5 @@
 Linux
 AWS CLI
 Boto 3
+CloudFormation
+AWS Lambda, API Gateway and DynamoDB
